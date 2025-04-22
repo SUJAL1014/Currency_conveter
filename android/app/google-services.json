@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147295522470",
+    "project_id": "crypto-d57b0",
+    "storage_bucket": "crypto-d57b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147295522470:android:f9d2754b4ac177bf06ee67",
+        "android_client_info": {
+          "package_name": "com.currency_converter_muzzbq.name"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRBmnTlLMc9A300LcQXy6HpkO-vJXrVLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
