@@ -1,4 +1,4 @@
-# Currency Converter App <img src="projectphotos/logo.png" alt="Currency Converter App Logo" width="40" height="40">
+# Currency Converter App 
 
 ## 📝 Description
 
